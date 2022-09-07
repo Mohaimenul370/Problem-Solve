@@ -1,0 +1,12 @@
+public class Testpc{
+   public static void main(String[] args){
+     int first = 55;
+	 int second = 55;
+	 
+	 int sum= first+second;
+	 System.out.println("the sum is:"+sum);
+   
+   
+   }
+
+}
